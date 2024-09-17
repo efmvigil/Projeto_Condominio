@@ -1,1 +1,1 @@
-# Projeto_Condominio
+Sistema de cadastro de vagas de garagem para apartamentos em um condomínio, com implementação de lista encadeada de apartamentos com vaga e fila de espera por vaga, desenvolvido em Python. Entregue como projeto da disciplina de Algoritmos e Estruturas de Dados I.
